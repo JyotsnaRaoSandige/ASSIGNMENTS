@@ -1,0 +1,28 @@
+body{
+    margin: 100px;
+    text-align: center;
+    align: center;
+    background-color:grey;
+    }
+     
+    input{
+    width: 20%;
+    margin: 8px 0;
+    padding: 7px 10px;
+    display: inline-block;
+
+    box-sizing: border-box;
+    }
+     
+    button{
+    background-color:#4CAF50;
+    width: 10%;
+    padding: 9px 5px;
+    margin:5px 0;
+    cursor:pointer;
+    border:none;
+
+    margin-left: 80px;
+    }
+     
+   

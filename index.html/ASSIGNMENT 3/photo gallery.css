@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color: cadetblue;
+    display: flex;   
+    align-self: center;
+}
+.items{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large; 
+    align-self: center;  
+}
+div.gallery{
+    margin: 10px;
+    border: solid;
+    align-self: center;
+    width: 800px;
+}
+h1{
+    text-align: center;
+}
+    
